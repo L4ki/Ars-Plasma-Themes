@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "",
+        "Description": "Ars-Splash For Plasma 6",
+        "Id": "Ars-Splash-6",
+        "License": "GPLv3",
+        "Name": "Ars-Splash-6",
+        "Website": "https://github.com/L4ki/Ars-Plasma-Themes"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
