@@ -32,7 +32,7 @@ Screenshot:
 
 ![6-1](https://github.com/user-attachments/assets/2b8bf366-94c6-42fe-a17a-84af49c71308)
 
-Changelog: 27.08.2024.
+Changelog: 03.09.2024.
 ----------------------
 
 Aurorae Themes
@@ -43,7 +43,7 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Updtae: gtk-4.0
+Updtae: gtk-3.0
 
 Icons
 ------
@@ -53,5 +53,5 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: tasks.svg
+Update widget: toolbar.svg
 
