@@ -43,7 +43,7 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Updtae: gtkrc
+Update: gtkrc
 
 Icons
 ------
