@@ -32,7 +32,7 @@ Screenshot:
 
 ![6-1](https://github.com/user-attachments/assets/2b8bf366-94c6-42fe-a17a-84af49c71308)
 
-Changelog: 24.09.2024.
+Changelog: 01.10.2024.
 ----------------------
 
 Aurorae Themes
@@ -43,15 +43,15 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Update: hacks-dark.rc
+Update: main.rc
 
 Icons
 ------
 
-Added new icons: apps 48
+Added new icons: actions
 
 Plasma Theme
 ------------
 
-Update widget: switch.svg
+Update widget: action-overlays.svg
 
