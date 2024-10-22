@@ -32,7 +32,7 @@ Screenshot:
 
 ![6-1](https://github.com/user-attachments/assets/2b8bf366-94c6-42fe-a17a-84af49c71308)
 
-Changelog: 15.10.2024.
+Changelog: 22.10.2024.
 ----------------------
 
 Aurorae Themes
@@ -43,7 +43,7 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Update: styles
+Update: gtk-4.0
 
 Icons
 ------
@@ -53,5 +53,5 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: slider.svg
+Update widget: bar_meter_horizontal.svg
 
