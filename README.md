@@ -48,7 +48,7 @@ Update: hacks-dark
 Icons
 ------
 
-Update icons: actions 22
+Added new icons: actions 22
 
 Plasma Theme
 ------------
