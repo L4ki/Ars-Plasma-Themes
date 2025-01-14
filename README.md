@@ -32,7 +32,7 @@ Screenshot:
 
 ![6-1](https://github.com/user-attachments/assets/2b8bf366-94c6-42fe-a17a-84af49c71308)
 
-Changelog: 07.01.2025.
+Changelog: 14.01.2025.
 ----------------------
 
 Aurorae Themes
@@ -43,12 +43,12 @@ Update: metadata.desktop
 GTK-Theme
 ---------
 
-Update: apps.rc
+Update: hacks-dark
 
 Icons
 ------
 
-Update icons: apps 48
+Update icons: actions 22
 
 Plasma Theme
 ------------
