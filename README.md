@@ -32,7 +32,7 @@ Screenshot:
 
 ![6-1](https://github.com/user-attachments/assets/2b8bf366-94c6-42fe-a17a-84af49c71308)
 
-Changelog: 13.05.2025.
+Changelog: 19.05.2025.
 ----------------------
 
 GTK-Theme
