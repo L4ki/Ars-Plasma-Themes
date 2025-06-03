@@ -32,13 +32,13 @@ Screenshot:
 
 ![6-1](https://github.com/user-attachments/assets/2b8bf366-94c6-42fe-a17a-84af49c71308)
 
-Changelog: 27.05.2025.
+Changelog: 03.06.2025.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: styles
+Update: gtk-4.0
 
 Icons
 ------
