@@ -32,20 +32,19 @@ Screenshot:
 
 ![6-1](https://github.com/user-attachments/assets/2b8bf366-94c6-42fe-a17a-84af49c71308)
 
-Changelog: 28.10.2025.
+Changelog: 04.10.2025.
 ----------------------
 
 GTK-Theme
 ---------
 
-Update: main.rc
+Update: hacks.rc
 
 Icons
 ------
-
-Added new icons: actions 22, 32
+Update icons: actions 22
 
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
