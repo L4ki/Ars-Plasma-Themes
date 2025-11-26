@@ -42,7 +42,7 @@ Update: gtk-3.0
 
 Icons
 ------
-Update icons: apps 48
+Added new icons: apps 24, 32
 
 Plasma Theme
 ------------
